@@ -8,7 +8,7 @@ const FormAction = () => {
         <div>
             <form action={handleFormAction}>
                 <input name='name' type="text" placeholder='name' /><br />
-                <input name='email' type="email" placeholder='email' />
+                <input name='email' type="email" placeholder='email' /><br />
                 <input type="submit" value={'submit'} />
             </form>
         </div>
