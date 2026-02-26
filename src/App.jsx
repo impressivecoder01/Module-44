@@ -15,8 +15,8 @@ function App() {
         
       </SimpleForm> */}
       {/* <FormAction></FormAction> */}
-      {/* <ControlledField></ControlledField> */}
-      <UncontrolledField></UncontrolledField>
+      <ControlledField></ControlledField>
+      {/* <UncontrolledField></UncontrolledField> */}
     </>
   )
 }
